@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerece",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayabharanikhaamahalingam/Ecom.git"
+  },
+  "author": "vijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayabharanikhaamahalingam/Ecom/issues"
+  },
+  "homepage": "https://github.com/vijayabharanikhaamahalingam/Ecom#readme"
+}
